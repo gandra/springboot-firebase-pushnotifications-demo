@@ -1,0 +1,28 @@
+.gradle
+local.properties
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+
+### VS Code ###
+.vscode/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+app/google-services.json
